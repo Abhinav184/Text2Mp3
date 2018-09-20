@@ -1,4 +1,4 @@
-import bs4 as bs # For Scraping
+import bs4 as bs # For Scraping Beautiful Soup is a Python library for pulling data out of HTML and XML files. 
 import urllib.request # To connect url
 import sys
 import os # To save MP3
